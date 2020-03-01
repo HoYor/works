@@ -45787,7 +45787,7 @@ t.x="\u53ea\u4e3a\u5e2e\u4f60\u54ed\u51fa\u6765\u3002\n\u575a\u5f3a\u7684\u6211\
 u.push(t)
 t=new T.iY()
 t.e="/bilingual_read"
-t.y=""
+t.y="https://www.jianshu.com/p/4aa6a88d7e36"
 t.r=H.e(["bilingual1.png"],s)
 t.z=H.e(["pc\u7f51\u9875","\u5df2\u4e0a\u7ebf"],s)
 t.f="\u53cc\u8bed\u9605\u8bfb"
@@ -45795,7 +45795,7 @@ t.x="\u98a0\u8986\u5e38\u89c4\u53cc\u8bed\u9605\u8bfb\u6a21\u5f0f\u3002\n\u5e94\
 u.push(t)
 t=new T.iY()
 t.e="/media_fun"
-t.y=""
+t.y="https://www.jianshu.com/p/96625d9d3000"
 t.r=H.e(["mediafun1.png"],s)
 t.z=H.e(["pc\u7f51\u9875","\u8fdb\u884c\u4e2d"],s)
 t.f="\u56fe\u7247\u5904\u7406"
